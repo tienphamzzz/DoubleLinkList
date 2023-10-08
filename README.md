@@ -14,6 +14,7 @@
 - Tìm kiếm sinh viên theo họ và tên bằng phương pháp tìm kiếm tuần tự 
 
 *Mỗi sinh viên cần quản lý các thông tin sau: Mã SV, Họ và tên, Ngày sinh, giới tính, lớp.*
+
 3. Viết hàm main thực hiện các chức năng trên 
 
 #### Các chức năng đã hoàn thành:
