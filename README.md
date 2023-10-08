@@ -5,13 +5,14 @@
 #### Đề bài:
 1. Xây dựng lớp danh sách liên kết kép mẫu. 
 2. Ứng dụng lớp danh sách liên kết kép xây dựng lớp để quản lý các đối tượng là các sinh viên có các chức năng: 
-a. Đọc danh sách sinh viên từ file vào danh sách 
-b. Ghi danh sách sinh viên vào file 
-c. Nhập thêm một sinh viên vào cuối danh sách 
-g. Xóa đi một sinh viên theo mã sinh viên 
-d. Hiển thị toàn bộ danh sách sinh viên hiện có trong danh sách 
-e. Cập nhật thông tin của một sinh viên bất kỳ trong danh sách khi biết mã sinh viên và các thông tin cần cập nhật. 
-f. Tìm kiếm sinh viên theo họ và tên bằng phương pháp tìm kiếm tuần tự 
+- Đọc danh sách sinh viên từ file vào danh sách 
+- Ghi danh sách sinh viên vào file 
+- Nhập thêm một sinh viên vào cuối danh sách 
+- Xóa đi một sinh viên theo mã sinh viên 
+- Hiển thị toàn bộ danh sách sinh viên hiện có trong danh sách 
+- Cập nhật thông tin của một sinh viên bất kỳ trong danh sách khi biết mã sinh viên và các thông tin cần cập nhật. 
+- Tìm kiếm sinh viên theo họ và tên bằng phương pháp tìm kiếm tuần tự 
+
 *Mỗi sinh viên cần quản lý các thông tin sau: Mã SV, Họ và tên, Ngày sinh, giới tính, lớp.*
 3. Viết hàm main thực hiện các chức năng trên 
 
