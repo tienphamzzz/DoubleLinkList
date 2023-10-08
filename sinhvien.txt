@@ -1,0 +1,20 @@
+101
+Nguyen Van A
+01/01/2000
+Male
+IT
+102
+Tran Thi B
+05/05/2001
+Female
+Business
+103
+Ho Van C
+10/10/1999
+Male
+Law
+104
+Le Thi D
+03/03/2002
+Female
+Engineering
