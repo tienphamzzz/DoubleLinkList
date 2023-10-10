@@ -212,6 +212,7 @@ int main(){
     dslk.DocFile("sinhvien.txt");
     bool isContinue = true;
     int choice;
+    int choice2;
 
         
 
@@ -319,7 +320,7 @@ int main(){
                 break;
         }
         do{
-            int choice2;
+
             cout << "Ban co muon tiep tuc khong? (1: Co, 0: Khong): ";
             cin >> choice2;
             switch(choice2){
@@ -335,7 +336,7 @@ int main(){
                     cout << "Nhap sai. Vui long nhap lai!" << endl;
                     break;
             }
-        } while(isContinue != 0 && isContinue != 1);
+        } while(choice2 != 0 && choice2 != 1);
 
     } while(isContinue);
 
